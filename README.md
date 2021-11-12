@@ -4,7 +4,7 @@ Here you can find coding projects I completed through my college education, main
 - Machine Learning for Data Analysis
 - Miscellaneous Projects as I learn new packages/languages
 
-Projects categorized first by their topic (e.g. from the above list), then by their language. The overwhelming majority of projects are done in Python, but some Perl, C family, and even Fortran make appearances. 
+Projects are categorized by their topic (e.g. from the above list) and language. The overwhelming majority of projects are done in Python, but some Perl, C-family, and even Fortran make appearances. 
 
 
 <!---

@@ -1,5 +1,5 @@
-Hi there, my name is Ethan Davis, usually just Davis. This space is currently under construction (and more than likely will be forever, as progress is constant).
-Here you can find coding projects I completed through my college education, mainly scientific computing, but including:
+Hi there, my name is Ethan Davis. This space is currently under construction (and more than likely will be forever, as progress is constant).
+Here you can find coding projects I completed through my college education, mainly scientific computing, but including: 
 - Data Collection, Processing, and Visualization
 - Machine Learning for Data Analysis
 - Miscellaneous Projects as I learn new packages/languages
